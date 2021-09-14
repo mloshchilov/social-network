@@ -1,0 +1,21 @@
+.nav {
+    grid-area: n;
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+
+.activeLink {
+    color: coral;
+}
+
+.link {
+    font-size: 30px;
+    color: yellow;
+    text-decoration: none;
+    transition: 0.3s all;
+}
+
+.link:hover {
+    color: yellowgreen;
+    font-size: 32px;
+}

@@ -1,0 +1,13 @@
+.selectedPage {
+    font-weight: bold;
+    border: 1px solid white;
+}
+
+.currentPage {
+    margin: 0px 2px;
+    border: 1px solid grey;
+}
+
+.wrapper {
+    margin: 10px;
+}
